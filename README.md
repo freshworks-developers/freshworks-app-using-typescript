@@ -38,3 +38,7 @@ Any changes you make to the `.ts` files will automatically trigger a typescript 
     ├── tsconfig.json               Typescript configuration file
     ├── package.json
     └── yarn.lock
+
+### Author
+
+[Arun Rajkumar](https://twitter.com/arunjgd)
